@@ -1,0 +1,17 @@
+{
+  "name": "pickem-major-bot",
+  "version": "1.0.0",
+  "description": "Pick'Em Major Full Edition Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Twój PickEm Dev",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.2.0",
+    "discord.js": "^14.11.0",
+    "node-cron": "^3.0.2",
+    "pdfkit": "^0.17.1"
+  }
+}
